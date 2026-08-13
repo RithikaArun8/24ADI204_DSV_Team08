@@ -1,0 +1,12 @@
+BLACK FRIDAY LOGISTICS NIGHTMARE
+
+ABSTRACT
+
+E-commerce has made online shopping more convenient, but the high number of orders during major shopping events such as Black Friday can create significant challenges in logistics and delivery. This project analyzes e-commerce shipping delays using the Brazilian E-Commerce Public Dataset by Olist. The main aim is to identify where packages experience delays and understand the factors that affect delivery performance during periods of high demand.
+
+The study examines factors such as product weight, seller location, delivery distance, carrier information, and estimated delivery time. Data analysis and visualization techniques are used to identify delivery patterns, compare shipping performance, and detect geographical areas where delays occur more frequently. These analyses help reveal possible bottlenecks in the supply chain and the reasons behind delayed deliveries.
+
+The insights from this project can support better logistics planning and improve delivery efficiency. By identifying the major causes of delays, e-commerce platforms and sellers can take suitable measures to reduce delivery time, manage peak-season demand, and improve customer satisfaction.
+
+Keywords: Black Friday, E-commerce, Shipping Delays, Logistics, Delivery Performance, Data Analysis
+
