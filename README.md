@@ -202,11 +202,18 @@ The project can be extended by:
 * Comparing logistics performance across different periods.
 * Developing an automated delivery-risk scoring system.
 
-## Dataset Source
+## 📊 Dataset
 
-Brazilian E-Commerce Public Dataset by Olist
+The datasets used in this project are:
 
-Dataset source: Kaggle
+- **DataCoSupplyChainDataset**
+- **tokenized_access_logs**
+- **DescriptionDataCoSupplyChain**
+Due to GitHub file-size limitations, the datasets are stored separately.
+
+### Dataset Source
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 ## Conclusion
 
